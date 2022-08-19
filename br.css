@@ -1,0 +1,10 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.my-favorite-books {   
+    background-color: #1E2939;
+    width: 370px;
+    margin: auto;
+    padding: 40px 0px;
+}
